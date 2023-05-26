@@ -5,6 +5,8 @@ board:
 shield:
 - corne_left
 - corne_right
+- corneL_left
+- corneL_right
 - romac
 - settings_reset
 - tidbit
